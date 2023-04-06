@@ -14,11 +14,11 @@ export const LiLink = ({
   hoverColor = 'bg-purple-800',
 }: LiLinkProps) => {
   return (
-    <li className="group transition flex flex-col items-center">
+    <li className="group transition relative flex flex-col items-center">
       <Link href={href}>{content}</Link>
       {hoverEffect && (
         <span
-          className={`w-0 mt-1 group-hover:w-full transition-all duration-300 h-0.5 ${hoverColor}`}
+          className={`absolute right-0 -bottom-2 w-0 group-hover:w-full transition-all duration-300 h-0.5 ${hoverColor}`}
         ></span>
       )}
     </li>
