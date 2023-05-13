@@ -1,0 +1,28 @@
+List Items
+    Home
+    About
+    Contacts
+    FAQ
+
+    Log In
+    Sign Up
+
+Paragraphs
+    A new study found that coffee drinkers have a lower risk of liver cancer. So, drink up!
+    Did you know that giraffes have the same number of neck vertebrae as humans? That's seven!
+    The world's largest snowflake on record was 15 inches wide and 8 inches thick.
+    Astronauts in space can grow up to 2 inches taller due to the lack of gravity.
+    Cows have best friends and can get stressed when they are separated from them.
+    Honey never spoils, thanks to its unique chemical makeup and low water content.
+    In Japan, there is a train station that has no entrance or exit. It exists solely to allow passengers to admire the view of cherry blossoms.
+    The first-ever recorded game of baseball was played in 1846 in Hoboken, New Jersey.
+    The world's largest functioning musical instrument is the Great Stalacpipe Organ in Virginia's Luray Caverns.
+    The world's largest tomato was grown in Oklahoma in 1986, weighing 7 pounds 12 ounces.
+
+
+Longer Paragraphs
+    The Great Barrier Reef, located off the coast of Australia, is the world's largest coral reef system and is home to an estimated 1,500 species of fish, 4,000 species of mollusk, and 400 species of coral. The reef is also a popular tourist destination, attracting millions of visitors every year. However, due to climate change and other environmental factors, the Great Barrier Reef is under threat of significant damage and destruction.
+    The human brain is the most complex organ in the body, containing over 100 billion neurons and trillions of synapses. The brain is responsible for controlling all of the body's functions, from movement and sensation to memory and emotion. Despite its complexity, scientists are still uncovering new information about the brain and how it works, and there is much to be learned about this mysterious and powerful organ.
+    The world's oceans cover over 70% of the Earth's surface and contain over 97% of the planet's water. The ocean is home to a vast array of marine life, from tiny plankton to enormous whales, and provides a critical source of food and resources for people around the world. However, the oceans are also under threat from pollution, overfishing, and climate change, and it is important that we take action to protect and preserve these vital ecosystems.
+    The United States is home to some of the world's most iconic national parks, including Yellowstone, Yosemite, and the Grand Canyon. These parks attract millions of visitors every year and offer stunning natural beauty, diverse wildlife, and opportunities for outdoor recreation. However, the parks also face significant challenges, including overcrowding, climate change, and environmental degradation, and it is important that we work to protect and preserve these natural treasures for future generations.
+    The history of human civilization is a rich and complex tapestry that stretches back over 10,000 years. From the earliest hunter-gatherer societies to the great empires of the ancient world, from the scientific and cultural achievements of the Renaissance to the industrial revolutions of the 19th and 20th centuries, the story of human history is one of constant change and evolution. By studying and understanding our shared past, we can gain a deeper appreciation for the present and chart a course for a brighter future.
